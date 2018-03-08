@@ -1,0 +1,14 @@
+#page,
+#page .swiper-container {
+  height: 500px;
+  background-color:#ddd;
+}
+
+.m-tab .swiper-slide{
+  text-align: center;
+}
+
+/* 解决Vue标签闪烁问题 */
+[v-cloak] {
+  display: none;
+}
