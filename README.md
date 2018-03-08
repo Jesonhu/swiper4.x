@@ -13,6 +13,7 @@
 > ### 案例1[D0101]
 + 手机端，可以拖动和自动居中的效果
 + [在线演示](http://www.swiper.com.cn/demo/fresh/)
++ 搭配Vue模板功能使用[D0102]
 #### 效果
 ![](./demo/01/img/show01.jpg)
 
