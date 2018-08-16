@@ -8,7 +8,7 @@
 ## 文档参考
 + [Swiper中文网](http://www.swiper.com.cn/usage/index.html)
 + 自动居中:
-  + [自动居中案例-默认代码](http://weixin.easysolves.com//sites/swiper/fresh.html)
+  + [自动居中案例-默认代码](https://weixin.easysolves.com//sites/swiper/fresh.html)
   + [自动居中案例-静态资源](https://weixin.easysolves.com//sites/swiper/fresh-my.html)
   + [自动居中案例-动态资源(vue模板)](https://weixin.easysolves.com//sites/swiper/fresh-async.html)
 
